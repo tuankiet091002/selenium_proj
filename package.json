@@ -1,0 +1,10 @@
+{
+  "name": "Selenium Webdriver",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "save": "^2.9.0",
+    "selenium-webdriver": "^4.15.0"
+  }
+}
